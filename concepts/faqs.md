@@ -23,6 +23,12 @@ Income in the DeFi ecosystem can be generated various ways. The two main methods
 
 Using the above methods, [Endaoments](endaoments.md) are able to generate the income they require to help fund projects.
 
+## If I am looking for funding why would I choose this option over others?
+
+If you have access to other options you probably use those sources as well. Funding isn't zero sum and projects usually have a blend of equity/debt/grant funding depending on the needs. This is just another option.
+
+One benefit to EnDAO is that it is a more sustainable funding method vs  continuous debt/equity/grant fundraising. A funding campaign run one time will continue to fund your project in perpetuity.
+
 ## Is EnDAO a blockchain?
 
 EnDAO is an application built on top of the Ethereum blockchain. We have plans to extend to Ethereum Layer 2 protocols.
