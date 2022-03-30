@@ -21,7 +21,4 @@
 ## Community
 
 * [Discord](https://discord.gg/qw77hPdX)
-
-***
-
 * [Edit Docs](https://github.com/endaofinance/docs-site)
