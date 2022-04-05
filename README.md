@@ -4,7 +4,7 @@
 
 EnDAO is a decentralized finance protocol designed to fund projects or people while minimizing the risk for funders. This is done through the "DeFi" ecosystem and is modeled after traditional finance endowments.
 
-Funders invest capital into vault contracts. The capital is then invested in the DeFi ecosystem to generate income. The project requesting the funding receives its funding through the yield generated.
+Funders invest capital into vault contracts. The capital is then invested in the DeFi ecosystem to generate income. The project requesting the funding receives its funding through the income generated.
 
 ## Why EnDAO?
 
