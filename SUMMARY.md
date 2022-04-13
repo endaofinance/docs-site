@@ -21,5 +21,6 @@
 ## Community
 
 - [Discord](https://discord.gg/2zYMwgKnWb)
+- [Github](https://github.com/endaofinance)
 - [Roadmap](https://endao.nolt.io/roadmap)
 - [Edit Docs](https://github.com/endaofinance/docs-site)
