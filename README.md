@@ -20,6 +20,4 @@ The system is trustless and lower risk in that the fundee never takes custody of
 
 ## How can I get involved?
 
-Getting involved is easy. [Join the chat community](https://discord.gg).
-
-##
+Getting involved is easy. [Join the chat community](https://discord.gg/2zYMwgKnWb).
