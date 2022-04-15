@@ -22,5 +22,5 @@
 
 - [Discord](https://discord.gg/2zYMwgKnWb)
 - [Github](https://github.com/endaofinance)
-- [Roadmap](https://roadmap.endao.finance)
+- [Roadmap](https://roadmap.endao.finance/roadmap)
 - [Edit Docs](https://github.com/endaofinance/docs-site)
