@@ -14,7 +14,7 @@
 - [Software as a service providers](use-cases/software-as-a-service-providers.md)
 - [Other Use Cases](use-cases/other-use-cases.md)
 
-## Using EnDAO
+## Using Endao
 
 - [Getting Started](using-endao/getting-started.md)
 
